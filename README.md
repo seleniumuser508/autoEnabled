@@ -7,4 +7,4 @@
 
 # When branch protection is enabled and enforce admin is false and EasyCLA is enabled
 
-merge as admin
+merge as admin directly
