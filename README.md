@@ -6,3 +6,5 @@
 # When branch protection is enabled and enforce admin is false and EasyCLA is not enabled
 
 # When branch protection is enabled and enforce admin is false and EasyCLA is enabled
+
+merge as asmin
