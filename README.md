@@ -1,4 +1,4 @@
 # autoEnabled
 
 non member no branch protection pr merged by owner
-non member no branch protection
+non member no branch protection verify pr merge by member
